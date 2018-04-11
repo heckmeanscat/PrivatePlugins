@@ -1,3 +1,4 @@
 # PrivatePlugins
 
-Private plugins for CSGOServers under goSRV.eu
+Private plugins for CSGOServers.
+Question? ask me here >> [My Account](https://steamcommunity.com/id/heckmanlow)
