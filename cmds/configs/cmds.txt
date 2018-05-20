@@ -1,0 +1,22 @@
+"Commands"
+{
+	"!rr"
+	{
+		"cmd" "exec rr.cfg" //  sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"!start"
+	{
+		"cmd" "exec start.cfg" // sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"/rr"
+	{
+		"cmd" "exec rr.cfg" //  sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+}
+
+// You can too set trigger to /
+// As example look on /rr //
+// Enjoy
