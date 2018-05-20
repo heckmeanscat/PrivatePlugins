@@ -10,29 +10,14 @@
 		"cmd" "esl5on5" // sv command to use
 		"flags" "bc" // admin flags required for use this command.
 	}
-	"/rr"
-	{
-		"cmd" "rr" //  sv command to use
-		"flags" "bc" // admin flags required for use this command.
-	}
 	"!knife"
-	{
-		"cmd" "knife" // sv command to use
-		"flags" "bc" // admin flags required for use this command.
-	}
-	"/start"
-	{
-		"cmd" "esl5on5" // sv command to use
-		"flags" "bc" // admin flags required for use this command.
-	}
-	"/knife"
 	{
 		"cmd" "knife" // sv command to use
 		"flags" "bc" // admin flags required for use this command.
 	}
 	"!pracc"
 	{
-		"cmd" "praccon" // sv command to use
+		"cmd" "pracc" // sv command to use
 		"flags" "bc" // admin flags required for use this command.
 	}
 	"!praccoff"
@@ -42,6 +27,5 @@
 	}
 }
 
-// You can too set trigger to be invisible of command.
-// As example look on /rr
-// Enjoy
+// btw you can USE / of command.
+// Example: /start or /pracc
