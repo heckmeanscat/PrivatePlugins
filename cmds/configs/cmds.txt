@@ -2,17 +2,42 @@
 {
 	"!rr"
 	{
-		"cmd" "exec rr.cfg" //  sv command to use
+		"cmd" "rr" //  sv command to use
 		"flags" "bc" // admin flags required for use this command.
 	}
 	"!start"
 	{
-		"cmd" "exec start.cfg" // sv command to use
+		"cmd" "esl5on5" // sv command to use
 		"flags" "bc" // admin flags required for use this command.
 	}
 	"/rr"
 	{
-		"cmd" "exec rr.cfg" //  sv command to use
+		"cmd" "rr" //  sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"!knife"
+	{
+		"cmd" "knife" // sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"/start"
+	{
+		"cmd" "esl5on5" // sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"/knife"
+	{
+		"cmd" "knife" // sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"!pracc"
+	{
+		"cmd" "praccon" // sv command to use
+		"flags" "bc" // admin flags required for use this command.
+	}
+	"!praccoff"
+	{
+		"cmd" "praccoff" // sv command to use
 		"flags" "bc" // admin flags required for use this command.
 	}
 }
